@@ -1,0 +1,25 @@
+{
+  "name": "tow3migration",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.332.0",
+    "@binance-chain/javascript-sdk": "^4.2.0",
+    "@bnb-chain/greenfield-chain-sdk": "0.1.0-alpha.5",
+    "aws-sdk": "^2.1379.0",
+    "bip39": "^3.1.0",
+    "esm": "^3.2.25",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^6.3.0",
+    "inquirer": "^9.2.3",
+    "progress": "^2.0.3"
+  }
+}
